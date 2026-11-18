@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 254" width="900" height="254" role="img" aria-labelledby="titulo">
+  <title id="titulo">Renato Tenório, desenvolvimento web e Python</title>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101827"/>
+      <stop offset="1" stop-color="#103039"/>
+    </linearGradient>
+    <pattern id="grade" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#72c3bc" stroke-opacity=".10"/>
+    </pattern>
+    <clipPath id="recorte"><rect width="900" height="254" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#recorte)">
+    <path d="M0 0H900V254H0Z" fill="url(#fundo)"/>
+    <path d="M514 0H900V254H514Z" fill="url(#grade)"/>
+    <path d="M535 254L649 0M751 254L865 0" stroke="#7ddacf" stroke-opacity=".18"/>
+    <path d="M601 254L715 0M813 254L927 0" stroke="#7ddacf" stroke-opacity=".08"/>
+    <circle cx="598" cy="114" r="4" fill="#94f1d6"/>
+    <circle cx="805" cy="134" r="4" fill="#94f1d6"/>
+    <rect x="650" y="65" width="142" height="124" rx="24" fill="#12343e" stroke="#488082"/>
+    <path d="M698 107L679 126L698 145M744 107L763 126L744 145M731 100L712 152" fill="none" stroke="#a0f7dc" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="36" y="35" width="94" height="26" rx="13" fill="#1c3b43"/>
+    <circle cx="49" cy="48" r="3" fill="#a0f7dc"/>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="60" y="53" fill="#b1f6e0" font-size="13" font-weight="700" letter-spacing=".7">@EUGP2</text>
+      <text x="34" y="126" fill="#f4f9ff" font-size="56" font-weight="700">Renato Tenório</text>
+      <text x="37" y="165" fill="#c8e6e9" font-size="23">Desenvolvimento web e Python</text>
+      <path d="M37 184H67" stroke="#84e9cb" stroke-width="3" stroke-linecap="round"/>
+      <text x="37" y="216" fill="#9fc9cf" font-size="16">Análise e Desenvolvimento de Sistemas · FIAP</text>
+    </g>
+  </g>
+</svg>
