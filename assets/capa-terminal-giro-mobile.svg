@@ -21,9 +21,9 @@
   <text x="23" y="24" fill="#acbbea" font-size="13" font-family="Consolas, Courier New, monospace">renato@eugp2:~$</text>
   <g transform="translate(212 0)" aria-hidden="true">
     <g>
-      <animateTransform attributeName="transform" type="scale" dur="14s" repeatCount="indefinite"
-        values="1 1;1.0000 1;0.9239 1;0.7071 1;0.3827 1;0.0000 1;-0.3827 1;-0.7071 1;-0.9239 1;-1.0000 1;-0.9239 1;-0.7071 1;-0.3827 1;0 1;0.3827 1;0.7071 1;0.9239 1;1.0000 1;1 1"
-        keyTimes="0;0.3200;0.3475;0.3750;0.4025;0.4300;0.4575;0.4850;0.5125;0.5400;0.5675;0.5950;0.6225;0.6500;0.6775;0.7050;0.7325;0.7600;1"/>
+      <animateTransform attributeName="transform" type="scale" dur="6.2s" repeatCount="indefinite"
+        values="1 1;0.9239 1;0.7071 1;0.3827 1;0 1;-0.3827 1;-0.7071 1;-0.9239 1;-1 1;-0.9239 1;-0.7071 1;-0.3827 1;0 1;0.3827 1;0.7071 1;0.9239 1;1 1"
+        keyTimes="0;.0625;.125;.1875;.25;.3125;.375;.4375;.5;.5625;.625;.6875;.75;.8125;.875;.9375;1"/>
       <g transform="translate(-212 0)">
         <g id="dragao" transform="translate(110 57)" aria-hidden="true" font-family="Consolas, DejaVu Sans Mono, Courier New, monospace" font-size="8.1" font-weight="700" fill="#b3c7ff">
           <text x="0" y="0.00" textLength="45.33" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ,;:;:;:;,.</text>

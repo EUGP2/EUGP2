@@ -2,8 +2,8 @@
   <picture>
     <source media="(max-width: 540px) and (prefers-reduced-motion: reduce)" srcset="assets/capa-terminal-dragao-mobile.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/capa-terminal-dragao.svg">
-    <source media="(max-width: 540px)" srcset="assets/capa-terminal-holograma-mobile.svg">
-    <img src="assets/capa-terminal-holograma.svg" alt="Renato Tenório (@EUGP2), estudante de ADS na FIAP. Um dragão desenhado com pontuação aparece no terminal." width="900">
+    <source media="(max-width: 540px)" srcset="assets/capa-terminal-giro-mobile.svg">
+    <img src="assets/capa-terminal-giro.svg" alt="Renato Tenório (@EUGP2), estudante de ADS na FIAP. Um dragão desenhado com pontuação aparece no terminal." width="900">
   </picture>
 </h1>
 
@@ -30,14 +30,20 @@ Nos projetos em equipe da faculdade, venho praticando desenvolvimento web, Pytho
 
 ## Projetos em equipe
 
-### [Acesso Já](https://github.com/EUGP2/python-gs)
+<h3><a href="https://github.com/EUGP2/python-gs"><img src="assets/projetos/acesso-ja.svg" alt="Acesso Já" width="900"></a></h3>
+
+`Python` `JSON` · Global Solution da FIAP
 
 Aplicação em Python para registrar e acompanhar problemas urbanos pelo terminal. Trabalhei com login, denúncias anônimas, confirmações da comunidade e histórico de atendimento.
 
-### [SoulPass](https://github.com/SoulPass-1TDSPJ/Challenge-PYTHON)
+<h3><a href="https://github.com/SoulPass-1TDSPJ/Challenge-PYTHON"><img src="assets/projetos/soulpass.svg" alt="SoulPass" width="900"></a></h3>
+
+`Python` `Oracle` · FIAP Challenge
 
 Protótipo acadêmico de um cartão de transporte com pontos e recompensas. Contribuí com a versão Python, que demonstra cadastro, embarques e resgates, com persistência em Oracle e exportação em JSON.
 
-### [Portal de Locais Acessíveis](https://github.com/1TDSPJ-26/portal-locais-acessiveis/pull/174)
+<h3><a href="https://github.com/1TDSPJ-26/portal-locais-acessiveis/pull/174"><img src="assets/projetos/portal.svg" alt="Portal de Locais Acessíveis" width="900"></a></h3>
+
+`React` `TypeScript` · Acessibilidade
 
 Portal colaborativo de locais e serviços acessíveis. Implementei a página de favoritos, o acesso pelo menu e o ajuste de foco ao remover um local dos favoritos.
