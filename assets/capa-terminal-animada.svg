@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="295" viewBox="0 0 900 295" role="img" aria-labelledby="titulo">
+  <title id="titulo">Renato Tenório, estudante de ADS na FIAP, ao lado de um dragão de pontuação.</title>
+  <defs>
+    <linearGradient id="terminal" x1="0%" y1="7%" x2="100%" y2="94%">
+      <stop offset="0" stop-color="#0c1426"/>
+      <stop offset="1" stop-color="#161332"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#425aa9" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#425aa9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rastro">
+      <stop stop-color="#75baff" stop-opacity="0"/>
+      <stop offset=".35" stop-color="#76c8ff" stop-opacity=".35"/>
+      <stop offset=".55" stop-color="#d4f6ff" stop-opacity=".87"/>
+      <stop offset=".72" stop-color="#79cfff" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#75baff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="mascara-dragao" x="475" y="48" width="394" height="236" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+      <use href="#dragao"/>
+    </mask>
+  </defs>
+  <rect x=".5" y=".5" width="899" height="294" rx="14" fill="url(#terminal)" stroke="#393e6b"/>
+  <path d="M1 39H899" stroke="#373e66"/>
+  <g fill="#869cf7">
+    <circle cx="23" cy="20" r="3.4"/>
+    <circle cx="35" cy="20" r="3.4" opacity=".64"/>
+    <circle cx="47" cy="20" r="3.4" opacity=".38"/>
+  </g>
+  <text x="68" y="25" fill="#acbbea" font-size="14" font-family="Consolas, Courier New, monospace">renato@eugp2:~$</text>
+  <ellipse cx="669" cy="169" rx="219" ry="113" fill="url(#halo)"/>
+  <path d="M471 77v-13h13m376 13v-13h-13M471 251v13h13m376-13v13h-13" fill="none" stroke="#5365a6"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="36" y="149" fill="#f3f6ff" font-size="54" font-weight="700">Renato Tenório</text>
+    <path d="M38 173h39" stroke="#899df5" stroke-width="2" stroke-linecap="round"/>
+    <text x="38" y="207" fill="#b9c3e6" font-size="20">Estudante de ADS na FIAP</text>
+  </g>
+  <g id="dragao" transform="translate(475 65) scale(1)" aria-hidden="true" font-family="Consolas, DejaVu Sans Mono, Courier New, monospace" font-size="13.4" font-weight="700">
+    <text x="0" y="0.00" fill="#87a2ff" xml:space="preserve">   ;                         :;       :;</text>
+    <text x="0" y="10.55" fill="#9ab1ff" xml:space="preserve">    /*+                        /*+:   ;-/*</text>
+    <text x="0" y="21.10" fill="#a4bdff" xml:space="preserve">    ;;-*\:;                     +,;\   /;-:</text>
+    <text x="0" y="31.65" fill="#a6bfff" xml:space="preserve">     /+;:,.:*+/;\:;+:*  ;\       ;.-;+:,.;;\</text>
+    <text x="0" y="42.20" fill="#a2c3ff" xml:space="preserve">      +-,;,;-,;,:;\/*+:;;: \/*+:;,;,;-,;,; <tspan fill="#e9fdff">*</tspan>;\</text>
+    <text x="0" y="52.75" fill="#99bdff" xml:space="preserve">       ;:,:,:,::       \:,+/:,:,:,:,:,:,:,:;:,;+:</text>
+    <text x="0" y="63.30" fill="#8cb0fd" xml:space="preserve">      ;;,-;,;,-;+:*+/;\,-+  +/;,;,-;,;,-;,;+:*+/</text>
+    <text x="0" y="73.85" fill="#8daaff" xml:space="preserve">       /:;+-.,:\   :++:;:;*+: +-.,:;.,:;+;</text>
+    <text x="0" y="84.40" fill="#92adff" xml:space="preserve">        +:*;;,,-;+:,\   /-+:,\-;;,,-;*\,-;/;+:*</text>
+    <text x="0" y="94.95" fill="#97b2ff" xml:space="preserve">           :.,+,:-:\:;+:++  \;.;.,+,;  ;+:*</text>
+    <text x="0" y="105.50" fill="#91a9ff" xml:space="preserve">            \,,,,,+   /,,,;+,,,,,,,;</text>
+    <text x="0" y="116.05" fill="#91abff" xml:space="preserve">            /;+;.;:;+/+,.;.;:-:,+:*</text>
+    <text x="0" y="126.60" fill="#89a9ff" xml:space="preserve">               ;\: +;-,,;;-,,;*+      :*+/;\:</text>
+    <text x="0" y="137.15" fill="#88a6ff" xml:space="preserve">                  \/.;:,.-+;:*            +:.\/</text>
+    <text x="0" y="147.70" fill="#859ffc" xml:space="preserve">                    +;-,;,;-;               +,;+</text>
+    <text x="0" y="158.25" fill="#8fa2ff" xml:space="preserve">                   +:,:,:,:,+               :,:,;</text>
+    <text x="0" y="168.80" fill="#909ffe" xml:space="preserve">                  +-;,;,-;,;,;+:         ;\/-;,;</text>
+    <text x="0" y="179.35" fill="#94a3ff" xml:space="preserve">                   *+-.,:;.,:;+-+/;+:*\:;-.,:;*</text>
+    <text x="0" y="189.90" fill="#93a6ff" xml:space="preserve">                    :;+,,-;;,,-;;,,-;;,,-;*+/;</text>
+    <text x="0" y="200.45" fill="#859afd" xml:space="preserve">                       *+:;-:;.;.,+,::;\/*</text>
+    <text x="0" y="211.00" fill="#7d91f4" xml:space="preserve">                           :;+/;+:*\:</text>
+  </g>
+  <g class="brilho-animado" mask="url(#mascara-dragao)" aria-hidden="true">
+    <rect x="365" y="48" width="112" height="236" fill="url(#rastro)">
+      <animate attributeName="x" values="365;365;872;872" keyTimes="0;.17;.66;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
