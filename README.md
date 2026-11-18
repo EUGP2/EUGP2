@@ -9,9 +9,16 @@
 
 ## Sobre mim
 
-Sou o Renato, estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Meu sonho é trabalhar com **cibersegurança**.
+Sou o Renato, estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Quero seguir carreira em **cibersegurança**.
 
-Nos projetos em equipe da faculdade, venho praticando desenvolvimento web, Python e banco de dados.
+- Gosto de **trabalhar em equipe**, trocar ideias e resolver problemas junto.
+- Curto aprender coisas novas, **aprendo rápido** e pergunto quando fico com alguma dúvida.
+- No tempo livre, eu gosto de jogar, ouvir música e ler.
+
+<p>
+  <a href="https://www.linkedin.com/in/renato-silvagp/"><img src="assets/redes/linkedin.svg" alt="LinkedIn de Renato Tenório" width="148" height="44"></a>
+  <a href="https://www.instagram.com/eugp___/"><img src="assets/redes/instagram.svg" alt="Instagram de Renato Tenório" width="148" height="44"></a>
+</p>
 
 ## Tecnologias que estudo e uso
 

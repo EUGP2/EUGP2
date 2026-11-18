@@ -27,7 +27,6 @@
     <circle cx="35" cy="20" r="3.4" opacity=".64"/>
     <circle cx="47" cy="20" r="3.4" opacity=".38"/>
   </g>
-  <text x="68" y="25" fill="#acbbea" font-size="14" font-family="Consolas, Courier New, monospace">renato@eugp2:~$</text>
   <ellipse cx="669" cy="169" rx="219" ry="113" fill="url(#halo)"/>
   <path d="M471 77v-13h13m376 13v-13h-13M471 251v13h13m376-13v13h-13" fill="none" stroke="#5365a6"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">

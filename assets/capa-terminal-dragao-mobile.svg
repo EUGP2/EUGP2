@@ -8,7 +8,11 @@
   </defs>
   <rect x=".5" y=".5" width="423" height="319" rx="14" fill="url(#terminal)" stroke="#393e6b"/>
   <path d="M1 38H423" stroke="#373e66"/>
-  <text x="23" y="24" fill="#acbbea" font-size="13" font-family="Consolas, Courier New, monospace">renato@eugp2:~$</text>
+  <g fill="#869cf7">
+    <circle cx="23" cy="19" r="3.4"/>
+    <circle cx="35" cy="19" r="3.4" opacity=".64"/>
+    <circle cx="47" cy="19" r="3.4" opacity=".38"/>
+  </g>
   <g transform="translate(110 57)" aria-hidden="true" font-family="Consolas, DejaVu Sans Mono, Courier New, monospace" font-size="8.1" font-weight="700" fill="#b3c7ff">
     <text x="0" y="0.00" textLength="45.33" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ,;:;:;:;,.</text>
     <text x="0" y="6.04" textLength="68.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .,;:+*+:;,</text>

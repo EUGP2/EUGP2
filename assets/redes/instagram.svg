@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 44" width="148" height="44" role="img" aria-labelledby="titulo">
+  <title id="titulo">Instagram</title>
+  <defs>
+    <linearGradient id="painel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#131b32"/>
+      <stop offset="1" stop-color="#181630"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="147" height="43" rx="10" fill="url(#painel)" stroke="#3e4674"/>
+  <rect x="8" y="8" width="28" height="28" rx="7" fill="#2c2955" stroke="#c4b7ff" stroke-opacity=".35"/>
+  <g fill="none" stroke="#c4b7ff" stroke-width="1.45">
+    <rect x="14.5" y="14.5" width="15" height="15" rx="4.5"/>
+    <circle cx="22" cy="22" r="3.3"/>
+  </g>
+  <circle cx="26.2" cy="17.8" r="1" fill="#c4b7ff"/>
+  <text x="45" y="27" fill="#edf0ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">Instagram</text>
+  <path d="M123 27l10-10m-8 0h8v8" fill="none" stroke="#c4b7ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
