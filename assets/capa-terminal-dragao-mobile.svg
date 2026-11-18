@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="320" viewBox="0 0 424 320" role="img" aria-labelledby="titulo">
+  <title id="titulo">Renato Tenório, estudante de ADS na FIAP, com um dragão de pontuação.</title>
+  <defs>
+    <linearGradient id="terminal" x1="0%" y1="7%" x2="100%" y2="94%">
+      <stop offset="0" stop-color="#0c1426"/>
+      <stop offset="1" stop-color="#161332"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="423" height="319" rx="14" fill="url(#terminal)" stroke="#393e6b"/>
+  <path d="M1 38H423" stroke="#373e66"/>
+  <text x="23" y="24" fill="#acbbea" font-size="13" font-family="Consolas, Courier New, monospace">renato@eugp2:~$</text>
+  <g transform="translate(110 57)" aria-hidden="true" font-family="Consolas, DejaVu Sans Mono, Courier New, monospace" font-size="8.1" font-weight="700" fill="#b3c7ff">
+    <text x="0" y="0.00" textLength="45.33" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ,;:;:;:;,.</text>
+    <text x="0" y="6.04" textLength="68.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .,;:+*+:;,</text>
+    <text x="0" y="12.08" textLength="90.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              .::+*+*+::</text>
+    <text x="0" y="18.12" textLength="109.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    ::+*+*+::</text>
+    <text x="0" y="24.16" textLength="120.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.::;:;:+*+*+*+***+*+*+*;:+**#+*.</text>
+    <text x="0" y="30.20" textLength="120.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 .:,;:+*++**#**.</text>
+    <text x="0" y="36.24" textLength="120.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                ,;:;*+*+*+*+#*+;</text>
+    <text x="0" y="42.28" textLength="124.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         .::+*+*+*;:;:;:;:;*++**:</text>
+    <text x="0" y="48.32" textLength="158.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     .:;:;::                  :+*;     :,:</text>
+    <text x="0" y="54.36" textLength="166.22" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     ,.                      ,+**+**:    ,;:</text>
+    <text x="0" y="60.40" textLength="173.78" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                           :*+***+*+***+::..*;</text>
+    <text x="0" y="66.44" textLength="181.33" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                          ;*#*:       .:+*#*;:+.</text>
+    <text x="0" y="72.48" textLength="185.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         .*+#.            :+*+*+,</text>
+    <text x="0" y="78.52" textLength="188.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         :+*+               ;**+*.</text>
+    <text x="0" y="84.56" textLength="188.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         :***                ;+**+</text>
+    <text x="0" y="90.60" textLength="196.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                          ++#*                ::+#+.</text>
+    <text x="0" y="96.64" textLength="196.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                           +#+*;                 ;*:</text>
+    <text x="0" y="102.68" textLength="136.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                            :**+**:.</text>
+    <text x="0" y="108.72" textLength="151.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                              .;*+*#*+:.</text>
+    <text x="0" y="114.76" textLength="166.22" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  .:+*+***;.</text>
+    <text x="0" y="120.80" textLength="177.56" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                       :**#+*+,</text>
+    <text x="0" y="126.84" textLength="188.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                          ;**:+*;.</text>
+    <text x="0" y="132.88" textLength="192.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                            :*, ,+:</text>
+    <text x="0" y="138.92" textLength="200.22" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                             :+.  :*.</text>
+    <text x="0" y="144.96" textLength="200.22" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                              :+   :*</text>
+    <text x="0" y="151.00" textLength="204.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                               *:   ;.</text>
+    <text x="0" y="157.04" textLength="204.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                               :*   ,:</text>
+    <text x="0" y="163.08" textLength="185.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                +</text>
+    <text x="0" y="169.12" textLength="185.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                *</text>
+    <text x="0" y="175.16" textLength="185.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                ;</text>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="24" y="274" fill="#f3f6ff" font-size="36" font-weight="700">Renato Tenório</text>
+    <text x="25" y="300" fill="#b9c3e6" font-size="15">Estudante de ADS na FIAP</text>
+  </g>
+</svg>

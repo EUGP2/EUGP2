@@ -1,9 +1,9 @@
 <h1>
   <picture>
-    <source media="(max-width: 540px) and (prefers-reduced-motion: reduce)" srcset="assets/capa-terminal-mobile.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/capa-terminal.svg">
-    <source media="(max-width: 540px)" srcset="assets/capa-terminal-animada-mobile.svg">
-    <img src="assets/capa-terminal-animada.svg" alt="Renato Tenório (@EUGP2), estudante de ADS na FIAP. Um dragão desenhado com pontuação aparece no terminal." width="900">
+    <source media="(max-width: 540px) and (prefers-reduced-motion: reduce)" srcset="assets/capa-terminal-dragao-mobile.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/capa-terminal-dragao.svg">
+    <source media="(max-width: 540px)" srcset="assets/capa-terminal-holograma-mobile.svg">
+    <img src="assets/capa-terminal-holograma.svg" alt="Renato Tenório (@EUGP2), estudante de ADS na FIAP. Um dragão desenhado com pontuação aparece no terminal." width="900">
   </picture>
 </h1>
 
