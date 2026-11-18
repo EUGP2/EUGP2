@@ -48,3 +48,12 @@ Aplicação em Python para registrar e acompanhar problemas urbanos pelo termina
 `Python` `Oracle` · FIAP Challenge
 
 Protótipo acadêmico de um cartão de transporte com pontos e recompensas. Contribuí com a versão Python, que demonstra cadastro, embarques e resgates, com persistência em Oracle e exportação em JSON.
+
+<p>
+  <a href="#top">
+    <picture>
+      <source media="(max-width: 540px)" srcset="assets/rodape-mobile.svg">
+      <img src="assets/rodape.svg" alt="Valeu pela visita. Voltar ao topo." width="900">
+    </picture>
+  </a>
+</p>
