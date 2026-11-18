@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 50" width="168" height="50" role="img" aria-label="Tailwind CSS">
+  <defs>
+    <linearGradient id="painel" x2="100%" y2="100%">
+      <stop stop-color="#131b32"/>
+      <stop offset="1" stop-color="#181630"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="167" height="49" rx="9" fill="url(#painel)" stroke="#3e4674"/>
+  <rect x="7.5" y="9.5" width="26" height="31" rx="6" fill="#222b4d" stroke="#424e80"/>
+  <g color="#a6c9ff" stroke="#a6c9ff" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 24c3-5 6-5 9-2s6 3 9 0M11 29c3-5 6-5 9-2s6 3 9 0"/>
+  </g>
+  <text x="43" y="30" fill="#edf0ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="600" font-size="14">Tailwind CSS</text>
+  <path d="M147 14h9v5m0 12v5h-9" fill="none" stroke="#a6c9ff" stroke-opacity=".27"/>
+</svg>

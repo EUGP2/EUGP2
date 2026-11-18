@@ -1,7 +1,7 @@
 <h1>
   <picture>
     <source media="(max-width: 540px)" srcset="assets/capa-terminal-mobile.svg">
-    <img src="assets/capa-terminal.svg" alt="Renato Tenório (@EUGP2), estudante de ADS na FIAP, rumo à cibersegurança. Um dragão desenhado com pontuação aparece no terminal." width="900">
+    <img src="assets/capa-terminal.svg" alt="Renato Tenório (@EUGP2), estudante de ADS na FIAP. Um dragão desenhado com pontuação aparece no terminal." width="900">
   </picture>
 </h1>
 
@@ -11,11 +11,20 @@ Sou o Renato, estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. M
 
 Nos projetos em equipe da faculdade, venho praticando desenvolvimento web, Python e banco de dados.
 
-## O que uso nos projetos
+## Tecnologias que estudo e uso
 
-- **Programação e dados** · Python e Oracle SQL
-- **Front-end** · React, TypeScript, JavaScript, HTML, CSS e Tailwind
-- **Controle de versão** · Git e GitHub
+<p>
+  <img src="assets/tecnologias/python.svg" alt="Python" width="168" height="50">
+  <img src="assets/tecnologias/javascript.svg" alt="JavaScript" width="168" height="50">
+  <img src="assets/tecnologias/typescript.svg" alt="TypeScript" width="168" height="50">
+  <img src="assets/tecnologias/react.svg" alt="React" width="168" height="50">
+</p>
+<p>
+  <img src="assets/tecnologias/html-css.svg" alt="HTML e CSS" width="168" height="50">
+  <img src="assets/tecnologias/tailwind.svg" alt="Tailwind CSS" width="168" height="50">
+  <img src="assets/tecnologias/oracle.svg" alt="Oracle SQL" width="168" height="50">
+  <img src="assets/tecnologias/git.svg" alt="Git e GitHub" width="168" height="50">
+</p>
 
 ## Projetos em equipe
 

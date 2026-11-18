@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="424" height="341" viewBox="0 0 424 341" role="img" aria-labelledby="titulo">
-  <title id="titulo">Renato Tenório, estudante de ADS na FIAP, rumo à cibersegurança. Design de terminal com dragão de pontuação.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="320" viewBox="0 0 424 320" role="img" aria-labelledby="titulo">
+  <title id="titulo">Renato Tenório, estudante de ADS na FIAP, com um dragão de pontuação.</title>
   <defs>
     <linearGradient id="terminal" x1="0%" y1="7%" x2="100%" y2="94%">
       <stop offset="0" stop-color="#0c1426"/>
       <stop offset="1" stop-color="#161332"/>
     </linearGradient>
   </defs>
-  <rect x=".5" y=".5" width="423" height="340" rx="14" fill="url(#terminal)" stroke="#393e6b"/>
+  <rect x=".5" y=".5" width="423" height="319" rx="14" fill="url(#terminal)" stroke="#393e6b"/>
   <path d="M1 38H423" stroke="#373e66"/>
   <text x="23" y="24" fill="#acbbea" font-size="13" font-family="Consolas, Courier New, monospace">renato@eugp2:~$</text>
   <g transform="translate(47 54) scale(0.82)" aria-hidden="true" font-family="Consolas, DejaVu Sans Mono, Courier New, monospace" font-size="13.4" font-weight="700">
@@ -34,7 +34,6 @@
   </g>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="24" y="274" fill="#f3f6ff" font-size="36" font-weight="700">Renato Tenório</text>
-    <text x="25" y="302" fill="#aecaff" font-size="22" font-weight="600">Rumo à cibersegurança</text>
-    <text x="25" y="324" fill="#b9c3e6" font-size="15">Estudante de ADS na FIAP</text>
+    <text x="25" y="300" fill="#b9c3e6" font-size="15">Estudante de ADS na FIAP</text>
   </g>
 </svg>
