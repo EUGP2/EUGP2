@@ -48,9 +48,3 @@ Aplicação em Python para registrar e acompanhar problemas urbanos pelo termina
 `Python` `Oracle` · FIAP Challenge
 
 Protótipo acadêmico de um cartão de transporte com pontos e recompensas. Contribuí com a versão Python, que demonstra cadastro, embarques e resgates, com persistência em Oracle e exportação em JSON.
-
-<h3><a href="https://github.com/1TDSPJ-26/portal-locais-acessiveis/pull/174"><img src="assets/projetos/portal.svg" alt="Portal de Locais Acessíveis" width="900"></a></h3>
-
-`React` `TypeScript` · Acessibilidade
-
-Portal colaborativo de locais e serviços acessíveis. Implementei a página de favoritos, o acesso pelo menu e o ajuste de foco ao remover um local dos favoritos.
