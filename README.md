@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Sou o Renato, estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Meu sonho é trabalhar com **cibersegurança** e sou fã do [Kali Linux](https://www.kali.org/).
+Sou o Renato, estudante de **Análise e Desenvolvimento de Sistemas na FIAP**. Meu sonho é trabalhar com **cibersegurança**.
 
 Nos projetos em equipe da faculdade, venho praticando desenvolvimento web, Python e banco de dados.
 
